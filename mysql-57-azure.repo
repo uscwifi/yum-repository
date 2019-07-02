@@ -1,0 +1,6 @@
+[mysql57]
+name=mysql57
+baseurl=http://mirror.azure.cn/mysql/yum/mysql-5.7-community/el/7/x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=http://mirror.azure.cn/mysql/RPM-GPG-KEY-mysql
